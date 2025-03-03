@@ -48,7 +48,6 @@ Sales team performance data can be used for incentive planning and training prog
 # Recommendations:
 Focus on High-Profit Categories: Increase marketing and promotional efforts for Technology products.
 Optimize Pricing Strategy: Review discount strategies to enhance profitability while maintaining competitiveness.
-----
 Expand in High-Sales Regions: Invest in expanding operations in the West and East regions.
 Improve Sales Team Performance: Use performance data to train and incentivize underperforming teams.
 Inventory Management: Ensure adequate stock of high-performing sub-categories like Phones and Binders to meet demand.
